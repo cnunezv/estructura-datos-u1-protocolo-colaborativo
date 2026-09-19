@@ -1,16 +1,16 @@
 # Estructura de Datos Unidad 1 Protocolo Colaborativo
 
-Actividad grupal sobre arreglos y matrices desarrollada sin Java. El repositorio contiene implementaciones equivalentes en Python, C# y TypeScript.
+Actividad de la Unidad 1 sobre arreglos y matrices, desarrollada sin Java. El repositorio contiene implementaciones equivalentes en Python, C# y TypeScript.
 
-## Integrantes
+## Autor y lenguajes
 
-| Integrante | Lenguaje y aporte |
+| Autor | Lenguaje y aporte |
 | --- | --- |
 | Carlos Andres Nuñez Vargas | Python: arreglos, matrices y pruebas. |
-| Pendiente | C#: arreglos y matrices. |
-| Pendiente | TypeScript: arreglos y matrices. |
+| Carlos Andres Nuñez Vargas | C#: arreglos y matrices. |
+| Carlos Andres Nuñez Vargas | TypeScript: arreglos y matrices. |
 
-Reemplacen los campos pendientes antes de entregar y agreguen a todos los integrantes como colaboradores del repositorio público.
+El proyecto fue desarrollado individualmente usando tres lenguajes distintos de Java para realizar la comparativa técnica.
 
 ## Estructura
 
