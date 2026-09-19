@@ -1,0 +1,6 @@
+{
+  "name": "protocolo-colaborativo-typescript",
+  "private": true,
+  "scripts": { "build": "tsc", "start": "npm run build && node dist/main.js" },
+  "devDependencies": { "typescript": "^5.6.0" }
+}
