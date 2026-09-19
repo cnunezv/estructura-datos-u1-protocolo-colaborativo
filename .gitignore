@@ -1,0 +1,9 @@
+target/
+.idea/
+*.class
+bin/
+obj/
+node_modules/
+dist/
+__pycache__/
+*.pyc
